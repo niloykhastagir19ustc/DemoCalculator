@@ -1,0 +1,17 @@
+{
+  "name": "npm-init-calculatorwork",
+  "version": "1.0.0",
+  "description": "calculatorwork package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculatorwork",
+    "package.json",
+    "npm",
+    "init"
+  ],
+  "author": "Niloy Khastagir",
+  "license": "ISC"
+}
